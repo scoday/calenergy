@@ -1,0 +1,13 @@
+#!/bin/bash
+#
+
+cd /usr/local/scoenergy/
+mydir=$PWD
+
+##
+
+calisoback() {
+    /usr/local/scoenergy/bin/db_back.sh
+}
+
+calisoback
