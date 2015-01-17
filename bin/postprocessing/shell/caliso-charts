@@ -1,0 +1,20 @@
+#!/bin/bash
+#
+
+cd /usr/local/scoenergy/
+mydir=$PWD
+
+##
+
+edit_php() {
+    /usr/local/scoenergy/bin/postprocessing/shell/php_graph.sh
+    sleep 5
+} 
+
+edit_html() {
+    /usr/local/scoenergy/bin/postprocessing/shell/html_graphs.sh
+    sleep 5
+} 
+
+edit_php
+edit_html

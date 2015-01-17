@@ -1,0 +1,1000 @@
+Apr  9 13:01:46 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,30165 --> 192.5.41.214,53 ALLOW: Outbound access request [DNS query for tick.usno.navy.mil.]
+Apr  9 13:01:46 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,1547 --> 192.5.41.214,53 ALLOW: Outbound access request [DNS query for tick.usno.navy.mil.]
+Apr  9 13:01:46 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.219,61524 --> 192.5.41.40,123 ALLOW: Outbound access request 
+Apr  9 13:01:46 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.7,56256 --> 192.168.1.255,8612 ALLOW: Inbound access request 
+Apr  9 14:06:23 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:01:47 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 192.168.1.218 --> 192.168.1.1 DENY: Firewall interface access request 
+Apr  9 13:01:48 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,22273 --> 216.239.38.10,53 ALLOW: Outbound access request [DNS query for www.gstatic.com.]
+Apr  9 13:01:48 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 93.188.128.39 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:01:48 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 119.31.253.201 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:01:50 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49376 --> 54.225.239.142,80 ALLOW: Outbound access request 
+Apr  9 13:01:50 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 119.31.255.72 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:01:50 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 222.73.181.4 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:01:50 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 8.35.177.11,80 --> 24.5.29.89,53071 DENY: Firewall interface access request 
+Apr  9 13:01:51 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 174.35.40.4 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:01:51 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 205.140.203.51,5222 --> 24.5.29.89,35379 DENY: Firewall interface access request 
+Apr  9 13:01:52 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 93.188.128.39 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:01:52 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 192.168.1.218 --> 192.168.1.1 DENY: Firewall interface access request 
+Apr  9 13:01:53 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 174.35.22.47 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:01:53 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.206,59020 --> 74.125.129.193,443 DENY: Inbound or outbound access request 
+Apr  9 13:01:54 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.7,52475 --> 192.168.1.255,8612 ALLOW: Inbound access request 
+Apr  9 14:06:30 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:01:54 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 222.73.181.4 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:01:55 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 174.35.40.4 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:01:56 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 93.188.128.39 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:01:57 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 192.168.1.218 --> 192.168.1.1 DENY: Firewall interface access request 
+Apr  9 13:01:58 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 174.35.52.141 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:01:58 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 99.198.114.138,59444 --> 192.168.1.4,80 ALLOW: Inbound access request 
+Apr  9 13:01:58 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 222.73.181.4 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:01:59 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 99.198.114.138,37066 --> 192.168.1.4,80 ALLOW: Inbound access request 
+Apr  9 13:01:59 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 174.35.40.4 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:01:59 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,8764 --> 96.17.144.45,53 ALLOW: Outbound access request [DNS query for e3191.c.akamaiedge.net.]
+Apr  9 13:02:00 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 183.61.179.34 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:02:00 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 93.188.128.39 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:02:01 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.7,52446 --> 192.168.1.255,8612 ALLOW: Inbound access request 
+Apr  9 14:06:37 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:02:02 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.218,47122 --> 23.62.228.34,80 DENY: Inbound or outbound access request 
+Apr  9 14:06:38 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] T' repeated 1 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:02:02 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 192.168.1.218 --> 192.168.1.1 DENY: Firewall interface access request 
+Apr  9 13:02:02 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 222.73.181.4 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:02:02 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.218,47122 --> 23.62.228.34,80 DENY: Inbound or outbound access request 
+Apr  9 13:02:03 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 124.109.153.6 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:02:03 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.218,47122 --> 23.62.228.34,80 DENY: Inbound or outbound access request 
+Apr  9 13:02:03 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 174.35.40.4 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:02:04 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 183.61.179.34 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:02:04 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.209,53089 --> 76.74.238.241,443 DENY: Inbound or outbound access request 
+Apr  9 14:06:40 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] T' repeated 1 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:02:04 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 119.31.253.201 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:02:05 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.218,47122 --> 23.62.228.34,80 DENY: Inbound or outbound access request 
+Apr  9 13:02:05 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,29613 --> 207.200.73.80,53 ALLOW: Outbound access request [DNS query for jaws.oscar.aol.com.]
+Apr  9 13:02:06 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 222.73.181.4 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:02:07 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 205.140.203.51,5222 --> 24.5.29.89,35379 DENY: Firewall interface access request 
+Apr  9 13:02:07 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 192.168.1.218 --> 192.168.1.1 DENY: Firewall interface access request 
+Apr  9 13:02:07 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 174.35.40.4 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:02:08 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 183.61.179.34 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:02:08 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.7,64868 --> 192.168.1.255,8612 ALLOW: Inbound access request 
+Apr  9 14:06:43 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:02:08 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 66.114.53.56 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:02:08 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 119.31.253.201 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:02:08 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.218,47122 --> 23.62.228.34,80 DENY: Inbound or outbound access request 
+Apr  9 13:02:09 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 174.35.22.47 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:02:11 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.209,53140 --> 8.35.177.11,80 ALLOW: Outbound access request 
+Apr  9 13:02:12 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 174.35.52.141 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:02:12 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 183.61.179.34 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:02:12 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 192.168.1.218 --> 192.168.1.1 DENY: Firewall interface access request 
+Apr  9 13:02:12 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 119.31.253.201 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:02:13 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.209,53141 --> 192.168.1.1,80 DENY: Firewall interface access request 
+Apr  9 13:02:13 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 174.35.22.47 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:02:13 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.209,53142 --> 192.168.1.1,80 DENY: Firewall interface access request 
+Apr  9 13:02:13 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 77.67.3.160 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:02:15 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.7,65088 --> 192.168.1.255,8612 ALLOW: Inbound access request 
+Apr  9 14:06:51 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:02:16 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.218,47122 --> 23.62.228.34,80 DENY: Inbound or outbound access request 
+Apr  9 13:02:16 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 174.35.52.141 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:02:16 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 183.61.179.34 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:02:16 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 119.31.253.201 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:02:17 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 174.35.22.47 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:02:17 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49377 --> 23.62.228.26,80 ALLOW: Outbound access request 
+Apr  9 13:02:17 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49378 --> 184.73.195.150,80 ALLOW: Outbound access request 
+Apr  9 13:02:17 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49379 --> 184.73.195.150,443 ALLOW: Outbound access request 
+Apr  9 13:02:17 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49380 --> 184.73.195.150,443 ALLOW: Outbound access request 
+Apr  9 13:02:17 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49381 --> 108.170.193.55,80 ALLOW: Outbound access request 
+Apr  9 13:02:17 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49382 --> 50.23.124.152,80 ALLOW: Outbound access request 
+Apr  9 13:02:17 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49383 --> 69.194.244.11,80 ALLOW: Outbound access request 
+Apr  9 13:02:17 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49384 --> 216.38.164.155,80 ALLOW: Outbound access request 
+Apr  9 13:02:17 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49385 --> 184.169.240.37,80 ALLOW: Outbound access request 
+Apr  9 13:02:17 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49386 --> 157.56.67.169,80 ALLOW: Outbound access request 
+Apr  9 13:02:17 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49387 --> 108.170.200.246,80 ALLOW: Outbound access request 
+Apr  9 13:02:17 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,13569 --> 96.17.144.195,53 ALLOW: Outbound access request [DNS query for cms.quantserve.com.]
+Apr  9 13:02:17 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49388 --> 64.94.107.54,80 ALLOW: Outbound access request 
+Apr  9 13:02:17 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 192.168.1.218 --> 192.168.1.1 DENY: Firewall interface access request 
+Apr  9 13:02:17 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49389 --> 204.154.111.33,80 ALLOW: Outbound access request 
+Apr  9 13:02:18 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 4.79.82.152 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:02:19 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 124.109.153.6 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:02:19 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.209,53143 --> 8.35.177.11,80 ALLOW: Outbound access request 
+Apr  9 13:02:19 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.209,61352 --> 224.0.0.251,5353 ALLOW: Outbound access request 
+Apr  9 14:06:55 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 1 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:02:19 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.214,61369 --> 224.0.0.251,5353 ALLOW: Outbound access request 
+Apr  9 13:02:20 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 174.35.52.141 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:02:20 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49390 --> 54.225.239.73,80 ALLOW: Outbound access request 
+Apr  9 13:02:20 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 119.31.253.201 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:02:20 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.209,53071 --> 8.35.177.11,80 DENY: Inbound or outbound access request 
+Apr  9 13:02:21 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 174.35.22.47 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:02:22 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,47086 --> 96.17.144.42,53 ALLOW: Outbound access request [DNS query for e3191.c.akamaiedge.net.]
+Apr  9 13:02:22 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.7,52993 --> 192.168.1.255,8612 ALLOW: Inbound access request 
+Apr  9 14:06:58 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:02:22 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 192.168.1.218 --> 192.168.1.1 DENY: Firewall interface access request 
+Apr  9 13:02:22 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 66.114.53.56 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:02:23 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 124.109.153.6 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:02:23 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 87.118.248.6 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:02:24 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 174.35.52.141 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:02:24 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.209,137 --> 192.168.1.255,137 ALLOW: Inbound access request 
+Apr  9 14:07:00 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 14:07:00 sf-fem02 dhcpd: DHCPREQUEST for 192.168.1.217 from 00:1d:fe:ed:30:2f via eth0
+Apr  9 14:07:00 sf-fem02 dhcpd: DHCPACK on 192.168.1.217 to 00:1d:fe:ed:30:2f via eth0
+Apr  9 13:02:24 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.209,137 --> 192.168.1.255,137 ALLOW: Inbound access request 
+Apr  9 14:07:00 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:02:24 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.254,138 --> 192.168.1.255,138 ALLOW: Inbound access request 
+Apr  9 14:07:00 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 5 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:02:25 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 174.35.22.47 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:02:25 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.209,137 --> 192.168.1.255,137 ALLOW: Inbound access request 
+Apr  9 14:07:02 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:02:26 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 66.114.53.56 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:02:27 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 124.109.153.6 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:02:27 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 192.168.1.218 --> 192.168.1.1 DENY: Firewall interface access request 
+Apr  9 13:02:28 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49391 --> 184.72.231.198,80 ALLOW: Outbound access request 
+Apr  9 13:02:28 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 174.35.52.141 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:02:28 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49392 --> 184.72.231.198,80 ALLOW: Outbound access request 
+Apr  9 13:02:28 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49393 --> 184.72.231.198,80 ALLOW: Outbound access request 
+Apr  9 13:02:28 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 61.156.242.132 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:02:28 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,32195 --> 192.26.92.30,53 ALLOW: Outbound access request [DNS query for www.linkedin.com.]
+Apr  9 13:02:28 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49394 --> 64.94.107.54,80 ALLOW: Outbound access request 
+Apr  9 13:02:28 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49395 --> 64.94.107.54,80 ALLOW: Outbound access request 
+Apr  9 13:02:28 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49396 --> 64.94.107.54,80 ALLOW: Outbound access request 
+Apr  9 13:02:28 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,19878 --> 204.13.251.24,53 ALLOW: Outbound access request [DNS query for eec.pixel.prod2.invitemedia.com.]
+Apr  9 13:02:28 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,30337 --> 120.89.70.11,53 ALLOW: Outbound access request [DNS query for w27.b.cap-mii.net.]
+Apr  9 13:02:28 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49397 --> 157.56.67.169,80 ALLOW: Outbound access request 
+Apr  9 13:02:28 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49398 --> 108.170.198.162,80 ALLOW: Outbound access request 
+Apr  9 13:02:28 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49399 --> 50.18.23.81,80 ALLOW: Outbound access request 
+Apr  9 13:02:28 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,36864 --> 8.19.31.11,53 ALLOW: Outbound access request [DNS query for adx.adnxs.com.]
+Apr  9 13:02:28 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,37660 --> 156.154.67.23,53 ALLOW: Outbound access request [DNS query for www.linkedin.com.]
+Apr  9 13:02:28 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49400 --> 68.67.151.100,80 ALLOW: Outbound access request 
+Apr  9 13:02:28 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49401 --> 204.154.111.33,80 ALLOW: Outbound access request 
+Apr  9 13:02:29 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 77.67.3.160 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:02:29 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.7,53191 --> 192.168.1.255,8612 ALLOW: Inbound access request 
+Apr  9 14:07:05 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:02:30 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.218,47122 --> 23.62.228.34,80 DENY: Inbound or outbound access request 
+Apr  9 13:02:30 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 66.114.53.56 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:02:31 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 124.109.153.6 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:02:32 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 4.79.82.152 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:02:32 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 192.168.1.218 --> 192.168.1.1 DENY: Firewall interface access request 
+Apr  9 13:02:33 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 77.67.3.160 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:02:33 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 174.35.32.149 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:02:34 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 66.114.53.56 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:02:35 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49402 --> 54.225.239.73,80 ALLOW: Outbound access request 
+Apr  9 13:02:35 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 124.109.153.6 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:02:35 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 182.118.22.208,31964 --> 192.168.1.4,80 ALLOW: Inbound access request 
+Apr  9 13:02:35 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,8424 --> 208.78.70.34,53 ALLOW: Outbound access request [DNS query for api.twitter.com.]
+Apr  9 13:02:36 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.201,55901 --> 199.59.150.9,80 ALLOW: Outbound access request 
+Apr  9 13:02:36 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.201,49103 --> 199.59.150.41,80 ALLOW: Outbound access request 
+Apr  9 13:02:36 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.201,35665 --> 199.59.150.9,80 ALLOW: Outbound access request 
+Apr  9 13:02:36 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.201,49926 --> 199.59.150.9,80 ALLOW: Outbound access request 
+Apr  9 13:02:36 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 4.79.82.152 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:02:36 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.7,58958 --> 192.168.1.255,8612 ALLOW: Inbound access request 
+Apr  9 14:07:12 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:02:37 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 77.67.3.160 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:02:37 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.202,137 --> 192.168.1.255,137 ALLOW: Inbound access request 
+Apr  9 14:07:13 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:02:37 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 205.140.203.51,5222 --> 24.5.29.89,35379 DENY: Firewall interface access request 
+Apr  9 13:02:37 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 192.168.1.218 --> 192.168.1.1 DENY: Firewall interface access request 
+Apr  9 13:02:37 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.202,137 --> 192.168.1.255,137 ALLOW: Inbound access request 
+Apr  9 14:07:14 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:02:38 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.201,41522 --> 74.125.129.95,443 DENY: Inbound or outbound access request 
+Apr  9 13:02:38 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 174.35.36.31 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:02:38 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.202,137 --> 192.168.1.255,137 ALLOW: Inbound access request 
+Apr  9 14:07:14 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:02:38 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 66.114.53.56 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:02:39 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.202,137 --> 192.168.1.255,137 ALLOW: Inbound access request 
+Apr  9 14:07:16 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 5 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:02:40 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 4.79.82.152 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:02:40 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,53196 --> 74.125.224.147,443 DENY: Inbound or outbound access request 
+Apr  9 13:02:40 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,53195 --> 74.125.224.147,443 DENY: Inbound or outbound access request 
+Apr  9 13:02:40 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,54400 --> 74.125.224.147,443 ALLOW: Outbound access request 
+Apr  9 13:02:40 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,53196 --> 74.125.224.147,443 DENY: Inbound or outbound access request 
+Apr  9 13:02:41 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.202,137 --> 192.168.1.255,137 ALLOW: Inbound access request 
+Apr  9 14:07:16 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:02:41 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 77.67.3.160 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:02:41 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,53195 --> 74.125.224.147,443 DENY: Inbound or outbound access request 
+Apr  9 13:02:41 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,54401 --> 74.125.224.147,443 ALLOW: Outbound access request 
+Apr  9 13:02:41 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 87.118.248.6 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:02:41 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,53196 --> 74.125.224.147,443 DENY: Inbound or outbound access request 
+Apr  9 13:02:41 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.202,137 --> 192.168.1.255,137 ALLOW: Inbound access request 
+Apr  9 14:07:18 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:02:42 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,53195 --> 74.125.224.147,443 DENY: Inbound or outbound access request 
+Apr  9 13:02:42 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49403 --> 184.72.231.198,80 ALLOW: Outbound access request 
+Apr  9 13:02:42 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49404 --> 184.72.231.198,80 ALLOW: Outbound access request 
+Apr  9 13:02:42 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.202,137 --> 192.168.1.255,137 ALLOW: Inbound access request 
+Apr  9 14:07:18 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:02:42 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 192.168.1.218 --> 192.168.1.1 DENY: Firewall interface access request 
+Apr  9 14:07:18 sf-fem02 named[7221]: error (network unreachable) resolving 'a1505.dspl.akamai.net/A/IN': 2a02:26f0:32:f000:f507:5f53:4756:420a#53
+Apr  9 13:02:42 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,44474 --> 96.17.144.47,53 ALLOW: Outbound access request [DNS query for a1168.dsw4.akamai.net.]
+Apr  9 13:02:42 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,64128 --> 213.254.245.10,53 ALLOW: Outbound access request [DNS query for a1505.dspl.akamai.net.]
+Apr  9 13:02:42 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49405 --> 54.225.239.73,80 ALLOW: Outbound access request 
+Apr  9 13:02:42 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49406 --> 184.51.102.59,443 ALLOW: Outbound access request 
+Apr  9 13:02:42 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49407 --> 184.51.102.59,443 ALLOW: Outbound access request 
+Apr  9 13:02:42 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49408 --> 184.51.102.59,443 ALLOW: Outbound access request 
+Apr  9 13:02:42 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,63599 --> 208.78.70.34,53 ALLOW: Outbound access request [DNS query for twitter.com.]
+Apr  9 13:02:42 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,22693 --> 204.246.160.7,53 ALLOW: Outbound access request [DNS query for www.amazon.com.]
+Apr  9 13:02:42 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,52376 --> 63.151.118.47,53 ALLOW: Outbound access request [DNS query for a403.g.akamai.net.]
+Apr  9 13:02:42 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,9496 --> 204.13.250.42,53 ALLOW: Outbound access request [DNS query for cnn-lax-tmp.gslb.vgtf.net.]
+Apr  9 13:02:42 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,45178 --> 69.171.255.11,53 ALLOW: Outbound access request [DNS query for star.c10r.facebook.com.]
+Apr  9 13:02:42 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49409 --> 184.51.102.56,80 ALLOW: Outbound access request 
+Apr  9 13:02:42 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49410 --> 74.125.224.141,80 ALLOW: Outbound access request 
+Apr  9 13:02:42 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,46305 --> 204.74.114.1,53 ALLOW: Outbound access request [DNS query for a1.interclick.com.]
+Apr  9 13:02:42 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,39461 --> 204.13.251.17,53 ALLOW: Outbound access request [DNS query for admeld.lucidmedia.com.]
+Apr  9 13:02:42 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,8230 --> 68.180.131.16,53 ALLOW: Outbound access request [DNS query for ad.yieldmanager.com.]
+Apr  9 13:02:42 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,43125 --> 204.74.114.1,53 ALLOW: Outbound access request [DNS query for cdn.interclick.com.]
+Apr  9 13:02:42 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,49259 --> 204.74.109.1,53 ALLOW: Outbound access request [DNS query for west.a1.interclick.com.]
+Apr  9 13:02:42 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,2420 --> 68.142.254.15,53 ALLOW: Outbound access request [DNS query for fd-world.ngd.ysm.yahoodns.net.]
+Apr  9 13:02:42 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,31050 --> 184.26.161.64,53 ALLOW: Outbound access request [DNS query for cdn.interclick.com.edgesuite.net.]
+Apr  9 13:02:42 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49411 --> 204.236.161.145,80 ALLOW: Outbound access request 
+Apr  9 13:02:42 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49412 --> 204.236.161.145,80 ALLOW: Outbound access request 
+Apr  9 13:02:42 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,5900 --> 204.74.109.1,53 ALLOW: Outbound access request [DNS query for match.adsrvr.org.]
+Apr  9 13:02:42 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,4117 --> 68.142.254.15,53 ALLOW: Outbound access request [DNS query for ds-any-world.ngd.ysm.yahoodns.net.]
+Apr  9 13:02:42 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,43656 --> 96.17.144.41,53 ALLOW: Outbound access request [DNS query for a1280.g.akamai.net.]
+Apr  9 13:02:42 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49413 --> 68.142.253.12,80 ALLOW: Outbound access request 
+Apr  9 13:02:42 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,42176 --> 199.7.68.1,53 ALLOW: Outbound access request [DNS query for osmsync.interclick.com.]
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49414 --> 68.142.253.12,80 ALLOW: Outbound access request 
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49415 --> 98.137.48.23,80 ALLOW: Outbound access request 
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49416 --> 98.137.48.23,80 ALLOW: Outbound access request 
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49417 --> 74.125.224.153,80 ALLOW: Outbound access request 
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,6887 --> 199.7.68.1,53 ALLOW: Outbound access request [DNS query for rs.gwallet.com.]
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,11565 --> 205.251.228.6,53 ALLOW: Outbound access request [DNS query for ttd-west-match-adsrvr-org-336110312.us-west-1.elb.amazonaws.com.]
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49418 --> 184.51.102.10,80 ALLOW: Outbound access request 
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49419 --> 184.51.102.10,80 ALLOW: Outbound access request 
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,11107 --> 96.17.144.45,53 ALLOW: Outbound access request [DNS query for a745.g.akamai.net.]
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,58518 --> 204.74.114.1,53 ALLOW: Outbound access request [DNS query for west.osmsync.interclick.com.]
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49420 --> 72.5.64.60,80 ALLOW: Outbound access request 
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49421 --> 72.5.64.60,80 ALLOW: Outbound access request 
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,9430 --> 192.42.93.30,53 ALLOW: Outbound access request [DNS query for cdn.undertone.com.]
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49422 --> 184.169.150.127,80 ALLOW: Outbound access request 
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49423 --> 184.169.150.127,80 ALLOW: Outbound access request 
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49424 --> 184.51.102.57,80 ALLOW: Outbound access request 
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49425 --> 184.51.102.57,80 ALLOW: Outbound access request 
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49426 --> 184.51.102.57,80 ALLOW: Outbound access request 
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49427 --> 184.51.102.57,80 ALLOW: Outbound access request 
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49428 --> 23.67.247.64,443 ALLOW: Outbound access request 
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49429 --> 23.67.247.64,443 ALLOW: Outbound access request 
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,42035 --> 66.171.230.26,53 ALLOW: Outbound access request [DNS query for cdn.undertone.com.]
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,17516 --> 193.108.91.67,53 ALLOW: Outbound access request [DNS query for ns1-149.akam.net.]
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,8469 --> 193.108.91.67,53 ALLOW: Outbound access request [DNS query for ns1-204.akam.net.]
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,55951 --> 193.108.91.67,53 ALLOW: Outbound access request [DNS query for ns1-149.akam.net.]
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,58485 --> 193.108.91.67,53 ALLOW: Outbound access request [DNS query for ns1-204.akam.net.]
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49430 --> 68.142.253.31,80 ALLOW: Outbound access request 
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49431 --> 68.142.253.31,80 ALLOW: Outbound access request 
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,61208 --> 205.252.255.11,53 ALLOW: Outbound access request [DNS query for img.undertone.com.cdngc.net.]
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49432 --> 174.35.3.6,80 ALLOW: Outbound access request 
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,53196 --> 74.125.224.147,443 DENY: Inbound or outbound access request 
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.202,137 --> 192.168.1.255,137 ALLOW: Inbound access request 
+Apr  9 14:07:19 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,29266 --> 192.35.51.30,53 ALLOW: Outbound access request [DNS query for images.musicnet.com.]
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,47469 --> 96.17.144.195,53 ALLOW: Outbound access request [DNS query for admeld-match.dotomi.com.]
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,30013 --> 192.35.51.30,53 ALLOW: Outbound access request [DNS query for a.tribalfusion.com.]
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,18523 --> 209.67.100.68,53 ALLOW: Outbound access request [DNS query for images.musicnet.com.]
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49433 --> 66.151.152.185,80 ALLOW: Outbound access request 
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,36631 --> 204.11.108.12,53 ALLOW: Outbound access request [DNS query for a.tribalfusion.com.]
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49434 --> 209.67.102.104,80 ALLOW: Outbound access request 
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49435 --> 204.11.109.64,80 ALLOW: Outbound access request 
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,2045 --> 208.78.70.16,53 ALLOW: Outbound access request [DNS query for pix04.revsci.net.]
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,50105 --> 192.5.6.30,53 ALLOW: Outbound access request [DNS query for ck.adohana.com.]
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,61952 --> 204.13.251.16,53 ALLOW: Outbound access request [DNS query for pix.revsci.net.]
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,38213 --> 69.171.255.12,53 ALLOW: Outbound access request [DNS query for graph.facebook.com.]
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,23034 --> 204.246.160.7,53 ALLOW: Outbound access request [DNS query for s3-2.amazonaws.com.]
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49436 --> 206.191.168.170,80 ALLOW: Outbound access request 
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,14281 --> 192.5.6.30,53 ALLOW: Outbound access request [DNS query for map.media6degrees.com.]
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49437 --> 207.171.187.117,443 ALLOW: Outbound access request 
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.7,61134 --> 192.168.1.255,8612 ALLOW: Inbound access request 
+Apr  9 14:07:19 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49438 --> 66.220.158.27,80 ALLOW: Outbound access request 
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49439 --> 66.220.158.27,80 ALLOW: Outbound access request 
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49440 --> 66.220.158.27,80 ALLOW: Outbound access request 
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49441 --> 66.220.158.27,80 ALLOW: Outbound access request 
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49442 --> 66.220.158.27,80 ALLOW: Outbound access request 
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49443 --> 66.220.158.27,80 ALLOW: Outbound access request 
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,35013 --> 208.96.10.221,53 ALLOW: Outbound access request [DNS query for ck.adohana.com.]
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,59017 --> 205.251.228.6,53 ALLOW: Outbound access request [DNS query for usermatch-load-balancer-2052969716.us-east-1.elb.amazonaws.com.]
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49444 --> 23.21.87.200,80 ALLOW: Outbound access request 
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,39979 --> 192.33.14.30,53 ALLOW: Outbound access request [DNS query for ns08.pipelane.net.]
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,24661 --> 192.33.14.30,53 ALLOW: Outbound access request [DNS query for ns08.pipelane.net.]
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,26673 --> 69.171.255.12,53 ALLOW: Outbound access request [DNS query for profile.ak.fbcdn.net.]
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,26701 --> 192.33.14.30,53 ALLOW: Outbound access request [DNS query for ns09.pipelane.net.]
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,62751 --> 192.33.14.30,53 ALLOW: Outbound access request [DNS query for ns10.pipelane.net.]
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,63156 --> 192.33.14.30,53 ALLOW: Outbound access request [DNS query for ns09.pipelane.net.]
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,30664 --> 192.33.14.30,53 ALLOW: Outbound access request [DNS query for ns10.pipelane.net.]
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,58332 --> 192.33.14.30,53 ALLOW: Outbound access request [DNS query for ns11.pipelane.net.]
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,36491 --> 192.33.14.30,53 ALLOW: Outbound access request [DNS query for ns13.pipelane.net.]
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,33676 --> 192.33.14.30,53 ALLOW: Outbound access request [DNS query for ns11.pipelane.net.]
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,38065 --> 192.33.14.30,53 ALLOW: Outbound access request [DNS query for ns13.pipelane.net.]
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,2721 --> 204.2.197.10,53 ALLOW: Outbound access request [DNS query for ns08.pipelane.net.]
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,9631 --> 204.2.197.10,53 ALLOW: Outbound access request [DNS query for ns09.pipelane.net.]
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,23994 --> 204.2.197.10,53 ALLOW: Outbound access request [DNS query for ns08.pipelane.net.]
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,9399 --> 204.2.197.10,53 ALLOW: Outbound access request [DNS query for ns10.pipelane.net.]
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,26235 --> 204.2.197.10,53 ALLOW: Outbound access request [DNS query for ns09.pipelane.net.]
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,12494 --> 204.2.197.10,53 ALLOW: Outbound access request [DNS query for ns10.pipelane.net.]
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,6205 --> 204.2.197.10,53 ALLOW: Outbound access request [DNS query for ns13.pipelane.net.]
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,20005 --> 204.2.197.10,53 ALLOW: Outbound access request [DNS query for ns11.pipelane.net.]
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,15532 --> 204.2.197.10,53 ALLOW: Outbound access request [DNS query for ns13.pipelane.net.]
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,33568 --> 204.2.197.10,53 ALLOW: Outbound access request [DNS query for ns11.pipelane.net.]
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,25481 --> 96.17.144.195,53 ALLOW: Outbound access request [DNS query for profile.ak.facebook.com.edgesuite.net.]
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,56069 --> 96.17.144.42,53 ALLOW: Outbound access request [DNS query for a1725.dspl.akamai.net.]
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49445 --> 23.67.247.74,80 ALLOW: Outbound access request 
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49446 --> 23.67.247.74,80 ALLOW: Outbound access request 
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49447 --> 23.67.247.74,80 ALLOW: Outbound access request 
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49448 --> 23.67.247.74,80 ALLOW: Outbound access request 
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49449 --> 23.67.247.74,80 ALLOW: Outbound access request 
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49450 --> 23.67.247.74,80 ALLOW: Outbound access request 
+Apr  9 13:02:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,47732 --> 204.2.197.11,53 ALLOW: Outbound access request [DNS query for map.media6degrees.com.]
+Apr  9 13:02:44 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,35686 --> 208.78.70.27,53 ALLOW: Outbound access request [DNS query for map.dynectmedia6degrees.com.]
+Apr  9 13:02:44 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,56085 --> 208.78.70.27,53 ALLOW: Outbound access request [DNS query for tc1-nj.map.dynectmedia6degrees.com.]
+Apr  9 13:02:44 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.202,137 --> 192.168.1.255,137 ALLOW: Inbound access request 
+Apr  9 14:07:19 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:02:44 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49451 --> 204.2.197.211,80 ALLOW: Outbound access request 
+Apr  9 13:02:44 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.201,33392 --> 199.59.148.87,80 ALLOW: Outbound access request 
+Apr  9 13:02:44 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 180.76.5.168,49459 --> 192.168.1.4,80 ALLOW: Inbound access request 
+Apr  9 14:07:20 sf-fem02 named[7221]: error (network unreachable) resolving 'ads.undertone.com/A/IN': 2600:1401:2::cc#53
+Apr  9 14:07:20 sf-fem02 named[7221]: error (network unreachable) resolving 'ads.undertone.com/A/IN': 2600:1401:2::95#53
+Apr  9 13:02:44 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,29927 --> 66.171.230.26,53 ALLOW: Outbound access request [DNS query for ads.undertone.com.]
+Apr  9 13:02:44 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.201,34675 --> 199.59.148.87,80 ALLOW: Outbound access request 
+Apr  9 13:02:44 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 4.79.82.152 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:02:44 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.201,39941 --> 199.59.148.87,80 ALLOW: Outbound access request 
+Apr  9 13:02:44 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.201,49280 --> 199.59.148.87,80 ALLOW: Outbound access request 
+Apr  9 13:02:44 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,40520 --> 96.17.144.195,53 ALLOW: Outbound access request [DNS query for ads.undertone.com.edgekey.net.]
+Apr  9 13:02:44 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,50634 --> 209.67.100.67,53 ALLOW: Outbound access request [DNS query for fp-limelight.musicnet.com.]
+Apr  9 13:02:44 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,33462 --> 72.246.199.57,53 ALLOW: Outbound access request [DNS query for e3271.c.akamaiedge.net.]
+Apr  9 13:02:44 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,15875 --> 69.28.143.11,53 ALLOW: Outbound access request [DNS query for medianet.vo.llnwd.net.]
+Apr  9 13:02:44 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49452 --> 184.85.109.95,80 ALLOW: Outbound access request 
+Apr  9 13:02:44 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49453 --> 208.111.148.6,80 ALLOW: Outbound access request 
+Apr  9 13:02:44 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,48947 --> 63.151.118.47,53 ALLOW: Outbound access request [DNS query for a765.g.akamai.net.]
+Apr  9 13:02:44 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49454 --> 184.51.102.83,80 ALLOW: Outbound access request 
+Apr  9 13:02:44 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,63343 --> 96.17.144.47,53 ALLOW: Outbound access request [DNS query for e3191.c.akamaiedge.net.]
+Apr  9 13:02:44 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 218.30.103.39,40474 --> 192.168.1.4,80 ALLOW: Inbound access request 
+Apr  9 13:02:44 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 61.156.242.132 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:02:44 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,43180 --> 128.241.218.167,53 ALLOW: Outbound access request [DNS query for e5413.g.akamaiedge.net.]
+Apr  9 13:02:44 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49455 --> 184.28.79.231,80 ALLOW: Outbound access request 
+Apr  9 13:02:44 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,53195 --> 74.125.224.147,443 DENY: Inbound or outbound access request 
+Apr  9 13:02:44 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.202,137 --> 192.168.1.255,137 ALLOW: Inbound access request 
+Apr  9 14:07:20 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:02:45 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49456 --> 184.28.79.231,80 ALLOW: Outbound access request 
+Apr  9 13:02:45 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49457 --> 50.23.124.152,80 ALLOW: Outbound access request 
+Apr  9 13:02:45 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49458 --> 64.94.107.25,80 ALLOW: Outbound access request 
+Apr  9 13:02:45 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49459 --> 64.94.107.25,80 ALLOW: Outbound access request 
+Apr  9 13:02:45 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,34130 --> 204.13.250.20,53 ALLOW: Outbound access request [DNS query for loadr.exelator.com.]
+Apr  9 13:02:45 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,20342 --> 204.13.251.5,53 ALLOW: Outbound access request [DNS query for r.nexac.com.]
+Apr  9 13:02:45 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,11899 --> 96.17.144.42,53 ALLOW: Outbound access request [DNS query for a1294.w20.akamai.net.]
+Apr  9 13:02:45 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,49550 --> 208.78.71.20,53 ALLOW: Outbound access request [DNS query for west.us.tm.exelator.com.]
+Apr  9 13:02:45 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 77.67.3.160 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:02:45 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,23541 --> 205.251.228.6,53 ALLOW: Outbound access request [DNS query for nvirginia-cassandra-tomcat-01-1136590083.us-east-1.elb.amazonaws.com.]
+Apr  9 13:02:45 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49460 --> 184.28.16.67,80 ALLOW: Outbound access request 
+Apr  9 13:02:45 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49461 --> 107.6.91.102,80 ALLOW: Outbound access request 
+Apr  9 13:02:45 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49462 --> 107.23.235.52,80 ALLOW: Outbound access request 
+Apr  9 13:02:45 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49463 --> 184.85.109.95,80 ALLOW: Outbound access request 
+Apr  9 13:02:45 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.202,137 --> 192.168.1.255,137 ALLOW: Inbound access request 
+Apr  9 14:07:21 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:02:45 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 87.118.248.6 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:02:45 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,56928 --> 193.108.91.149,53 ALLOW: Outbound access request [DNS query for www.undertone.com.]
+Apr  9 13:02:46 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,53196 --> 74.125.224.147,443 DENY: Inbound or outbound access request 
+Apr  9 13:02:46 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,30134 --> 205.251.228.6,53 ALLOW: Outbound access request [DNS query for log-2048315323.us-east-1.elb.amazonaws.com.]
+Apr  9 13:02:46 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49464 --> 107.22.163.248,80 ALLOW: Outbound access request 
+Apr  9 13:02:47 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 192.168.1.218 --> 192.168.1.1 DENY: Firewall interface access request 
+Apr  9 13:02:47 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,11383 --> 23.61.199.129,53 ALLOW: Outbound access request [DNS query for 1.courier-push-apple.com.akadns.net.]
+Apr  9 13:02:48 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 4.79.82.152 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:02:48 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 218.6.20.166 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:02:48 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 61.156.242.132 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:02:49 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 174.35.32.149 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:02:49 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.201,45595 --> 74.125.224.144,443 DENY: Inbound or outbound access request 
+Apr  9 13:02:49 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 87.118.248.6 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:02:49 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,53195 --> 74.125.224.147,443 DENY: Inbound or outbound access request 
+Apr  9 13:02:50 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.7,56503 --> 192.168.1.255,8612 ALLOW: Inbound access request 
+Apr  9 14:07:26 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:02:50 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49465 --> 74.125.224.141,80 ALLOW: Outbound access request 
+Apr  9 13:02:50 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.209,53071 --> 8.35.177.11,80 DENY: Inbound or outbound access request 
+Apr  9 13:02:50 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.7,61523 --> 224.0.0.251,5353 ALLOW: Outbound access request 
+Apr  9 13:02:50 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49466 --> 74.125.224.141,80 ALLOW: Outbound access request 
+Apr  9 13:02:50 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49467 --> 74.125.224.141,80 ALLOW: Outbound access request 
+Apr  9 13:02:50 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49468 --> 74.125.224.141,80 ALLOW: Outbound access request 
+Apr  9 13:02:50 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49469 --> 74.125.224.141,80 ALLOW: Outbound access request 
+Apr  9 13:02:50 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49470 --> 74.125.224.141,80 ALLOW: Outbound access request 
+Apr  9 13:02:50 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49471 --> 74.125.224.146,80 ALLOW: Outbound access request 
+Apr  9 13:02:50 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49472 --> 74.125.224.146,80 ALLOW: Outbound access request 
+Apr  9 13:02:50 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49473 --> 74.125.224.146,80 ALLOW: Outbound access request 
+Apr  9 13:02:51 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49474 --> 68.67.151.100,80 ALLOW: Outbound access request 
+Apr  9 13:02:51 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49475 --> 68.67.151.100,80 ALLOW: Outbound access request 
+Apr  9 13:02:51 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49476 --> 68.67.151.100,80 ALLOW: Outbound access request 
+Apr  9 13:02:51 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49477 --> 74.125.224.153,80 ALLOW: Outbound access request 
+Apr  9 13:02:51 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49478 --> 74.125.224.153,80 ALLOW: Outbound access request 
+Apr  9 13:02:51 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49479 --> 74.125.224.153,80 ALLOW: Outbound access request 
+Apr  9 13:02:51 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49480 --> 64.94.107.54,80 ALLOW: Outbound access request 
+Apr  9 13:02:51 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49481 --> 64.94.107.54,80 ALLOW: Outbound access request 
+Apr  9 13:02:51 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,16339 --> 74.119.117.4,53 ALLOW: Outbound access request [DNS query for cas.sv.us.criteo.com.]
+Apr  9 13:02:51 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,20464 --> 216.239.36.10,53 ALLOW: Outbound access request [DNS query for googleads.g.doubleclick.net.]
+Apr  9 13:02:51 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49482 --> 74.119.117.72,80 ALLOW: Outbound access request 
+Apr  9 13:02:51 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49483 --> 74.119.117.72,80 ALLOW: Outbound access request 
+Apr  9 14:07:26 sf-fem02 named[7221]: error (network unreachable) resolving 'rtd.tubemogul.com/A/IN': 2001:502:f3ff::68#53
+Apr  9 13:02:51 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,34160 --> 204.13.250.30,53 ALLOW: Outbound access request [DNS query for rtd.tubemogul.com.]
+Apr  9 13:02:51 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49484 --> 74.125.224.141,443 ALLOW: Outbound access request 
+Apr  9 13:02:51 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49485 --> 74.125.224.141,80 ALLOW: Outbound access request 
+Apr  9 13:02:51 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,15984 --> 156.154.64.68,53 ALLOW: Outbound access request [DNS query for userdblb.tubemogul.com.]
+Apr  9 13:02:51 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49486 --> 50.17.216.61,80 ALLOW: Outbound access request 
+Apr  9 13:02:51 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,59034 --> 192.31.80.30,53 ALLOW: Outbound access request [DNS query for a.triggit.com.]
+Apr  9 13:02:51 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,5513 --> 192.31.80.30,53 ALLOW: Outbound access request [DNS query for ads.p.veruta.com.]
+Apr  9 14:07:27 sf-fem02 named[7221]: error (network unreachable) resolving 'a.triggit.com/A/IN': 2001:500:90:1::11#53
+Apr  9 13:02:51 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,19404 --> 208.93.136.12,53 ALLOW: Outbound access request [DNS query for ads.p.veruta.com.]
+Apr  9 13:02:51 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,27508 --> 208.78.70.100,53 ALLOW: Outbound access request [DNS query for ns1.p11.dynect.net.]
+Apr  9 13:02:51 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,36345 --> 208.78.70.100,53 ALLOW: Outbound access request [DNS query for ns2.p11.dynect.net.]
+Apr  9 13:02:51 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,25661 --> 208.78.70.100,53 ALLOW: Outbound access request [DNS query for ns1.p11.dynect.net.]
+Apr  9 13:02:51 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,9898 --> 208.78.70.100,53 ALLOW: Outbound access request [DNS query for ns2.p11.dynect.net.]
+Apr  9 13:02:51 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,29992 --> 208.78.70.100,53 ALLOW: Outbound access request [DNS query for ns3.p11.dynect.net.]
+Apr  9 13:02:51 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,12648 --> 208.78.70.100,53 ALLOW: Outbound access request [DNS query for ns4.p11.dynect.net.]
+Apr  9 13:02:51 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,44199 --> 208.78.70.100,53 ALLOW: Outbound access request [DNS query for ns3.p11.dynect.net.]
+Apr  9 13:02:51 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,60936 --> 208.78.70.100,53 ALLOW: Outbound access request [DNS query for ns4.p11.dynect.net.]
+Apr  9 13:02:51 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,43437 --> 208.78.70.11,53 ALLOW: Outbound access request [DNS query for a.triggit.com.]
+Apr  9 13:02:51 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49487 --> 66.151.146.198,80 ALLOW: Outbound access request 
+Apr  9 13:02:51 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49488 --> 65.17.253.119,80 ALLOW: Outbound access request 
+Apr  9 13:02:51 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49489 --> 74.125.224.141,443 ALLOW: Outbound access request 
+Apr  9 13:02:52 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.201,41923 --> 199.59.150.41,80 ALLOW: Outbound access request 
+Apr  9 13:02:52 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.201,48516 --> 199.59.150.9,80 ALLOW: Outbound access request 
+Apr  9 13:02:52 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.201,39243 --> 199.59.150.41,80 ALLOW: Outbound access request 
+Apr  9 13:02:52 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.201,47477 --> 199.59.150.41,80 ALLOW: Outbound access request 
+Apr  9 13:02:52 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 192.168.1.218 --> 192.168.1.1 DENY: Firewall interface access request 
+Apr  9 13:02:52 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 61.156.242.132 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:02:52 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,53196 --> 74.125.224.147,443 DENY: Inbound or outbound access request 
+Apr  9 13:02:52 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 174.35.36.31 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:02:53 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 61.125.141.103 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:02:53 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 174.35.32.149 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:02:53 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 87.118.248.6 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:02:54 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.201,39941 --> 199.59.148.87,80 DENY: Inbound or outbound access request 
+Apr  9 13:02:54 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.201,34675 --> 199.59.148.87,80 DENY: Inbound or outbound access request 
+Apr  9 13:02:54 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.201,33392 --> 199.59.148.87,80 DENY: Inbound or outbound access request 
+Apr  9 13:02:55 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.201,49280 --> 199.59.148.87,80 DENY: Inbound or outbound access request 
+Apr  9 13:02:56 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 61.156.242.132 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:02:56 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 174.35.36.31 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:02:57 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 174.35.32.149 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:02:57 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.206,59020 --> 74.125.129.193,443 DENY: Inbound or outbound access request 
+Apr  9 13:02:57 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.209,53144 --> 8.35.177.11,80 ALLOW: Outbound access request 
+Apr  9 13:02:57 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 87.118.248.6 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:02:57 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49490 --> 54.225.239.73,80 ALLOW: Outbound access request 
+Apr  9 13:02:57 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 192.168.1.218 --> 192.168.1.1 DENY: Firewall interface access request 
+Apr  9 13:02:57 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.7,63359 --> 192.168.1.255,8612 ALLOW: Inbound access request 
+Apr  9 14:07:33 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:02:57 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 66.249.74.26,65464 --> 192.168.1.4,80 ALLOW: Inbound access request 
+Apr  9 13:02:58 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.218,47122 --> 23.62.228.34,80 DENY: Inbound or outbound access request 
+Apr  9 13:02:58 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 118.122.177.13 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:02:59 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.201,55901 --> 199.59.150.9,80 DENY: Inbound or outbound access request 
+Apr  9 13:02:59 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,53195 --> 74.125.224.147,443 DENY: Inbound or outbound access request 
+Apr  9 13:02:59 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.201,35665 --> 199.59.150.9,80 DENY: Inbound or outbound access request 
+Apr  9 13:03:00 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.201,49926 --> 199.59.150.9,80 DENY: Inbound or outbound access request 
+Apr  9 13:03:00 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,46999 --> 23.61.199.129,53 ALLOW: Outbound access request [DNS query for 1.courier-sandbox-push-apple.com.akadns.net.]
+Apr  9 13:03:00 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 61.156.242.132 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:03:00 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 174.35.36.31 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:03:01 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 174.35.32.149 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:03:02 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 192.168.1.218 --> 192.168.1.1 DENY: Firewall interface access request 
+Apr  9 13:03:03 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 210.101.73.48 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:03:04 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 174.35.36.31 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:03:04 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.7,61053 --> 192.168.1.255,8612 ALLOW: Inbound access request 
+Apr  9 14:07:41 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:03:05 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 174.35.32.149 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:03:05 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,53196 --> 74.125.224.147,443 DENY: Inbound or outbound access request 
+Apr  9 13:03:05 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.209,53145 --> 8.35.177.11,80 ALLOW: Outbound access request 
+Apr  9 13:03:06 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 218.6.20.166 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:03:07 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.201,39941 --> 199.59.148.87,80 DENY: Inbound or outbound access request 
+Apr  9 13:03:07 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.201,34675 --> 199.59.148.87,80 DENY: Inbound or outbound access request 
+Apr  9 13:03:07 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,43919 --> 207.200.73.80,53 ALLOW: Outbound access request [DNS query for jaws.oscar.aol.com.]
+Apr  9 13:03:07 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,48056 --> 96.17.144.47,53 ALLOW: Outbound access request [DNS query for e3191.c.akamaiedge.net.]
+Apr  9 13:03:07 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 192.168.1.218 --> 192.168.1.1 DENY: Firewall interface access request 
+Apr  9 13:03:07 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.201,33392 --> 199.59.148.87,80 DENY: Inbound or outbound access request 
+Apr  9 13:03:08 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.201,49280 --> 199.59.148.87,80 DENY: Inbound or outbound access request 
+Apr  9 13:03:08 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 61.125.141.103 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:03:08 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 66.249.74.9,59975 --> 192.168.1.4,80 ALLOW: Inbound access request 
+Apr  9 13:03:08 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 174.35.36.31 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:03:10 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 218.6.20.166 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:03:10 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49294 --> 204.154.94.81,443 DENY: Inbound or outbound access request 
+Apr  9 13:03:11 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.7,57504 --> 192.168.1.255,8612 ALLOW: Inbound access request 
+Apr  9 14:07:48 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:03:12 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 61.125.141.103 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:03:12 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49491 --> 54.225.239.73,80 ALLOW: Outbound access request 
+Apr  9 13:03:12 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 192.168.1.218 --> 192.168.1.1 DENY: Firewall interface access request 
+Apr  9 13:03:13 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 183.60.194.22 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:03:14 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 218.6.20.166 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:03:15 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 118.122.177.13 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 14:07:51 sf-fem02 sshd[13910]: Accepted publickey for scoday from 192.168.1.7 port 49492 ssh2
+Apr  9 14:07:51 sf-fem02 systemd-logind[518]: New session 9975 of user scoday.
+Apr  9 13:03:16 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 61.125.141.103 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:03:17 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 192.168.1.218 --> 192.168.1.1 DENY: Firewall interface access request 
+Apr  9 13:03:18 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 218.6.20.166 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:03:18 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 61.158.240.142 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:03:18 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.7,59233 --> 192.168.1.255,8612 ALLOW: Inbound access request 
+Apr  9 14:07:54 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:03:19 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 118.122.177.13 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:03:19 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,53195 --> 74.125.224.147,443 DENY: Inbound or outbound access request 
+Apr  9 13:03:19 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 210.101.73.48 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:03:20 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 61.125.141.103 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:03:21 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.202,53771 --> 192.168.1.1,1900 DENY: Firewall interface access request 
+Apr  9 13:03:22 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 218.6.20.166 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:03:22 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 192.168.1.218 --> 192.168.1.1 DENY: Firewall interface access request 
+Apr  9 13:03:23 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 118.122.177.13 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:03:23 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49293 --> 204.154.94.81,443 DENY: Inbound or outbound access request 
+Apr  9 13:03:23 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 125.39.86.67 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:03:23 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 210.101.73.48 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:03:24 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 61.125.141.103 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:03:25 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 180.76.5.184,8374 --> 192.168.1.4,80 ALLOW: Inbound access request 
+Apr  9 13:03:26 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.7,60963 --> 192.168.1.255,8612 ALLOW: Inbound access request 
+Apr  9 14:08:02 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:03:27 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 118.122.177.13 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:03:27 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 210.101.73.48 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:03:27 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 192.168.1.218 --> 192.168.1.1 DENY: Firewall interface access request 
+Apr  9 13:03:28 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 119.254.22.218 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:03:29 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,40847 --> 72.246.199.57,53 ALLOW: Outbound access request [DNS query for e3191.c.akamaiedge.net.]
+Apr  9 13:03:30 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,53196 --> 74.125.224.147,443 DENY: Inbound or outbound access request 
+Apr  9 13:03:30 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 183.60.194.22 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:03:31 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 118.122.177.13 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:03:31 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 210.101.73.48 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:03:32 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 192.168.1.218 --> 192.168.1.1 DENY: Firewall interface access request 
+Apr  9 13:03:33 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.7,58808 --> 192.168.1.255,8612 ALLOW: Inbound access request 
+Apr  9 14:08:09 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:03:33 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 121.254.147.71 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:03:34 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 183.60.194.22 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:03:35 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 61.158.240.142 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:03:35 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 210.101.73.48 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:03:37 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.202,137 --> 192.168.1.255,137 ALLOW: Inbound access request 
+Apr  9 14:08:13 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:03:37 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 192.168.1.218 --> 192.168.1.1 DENY: Firewall interface access request 
+Apr  9 13:03:37 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.202,137 --> 192.168.1.255,137 ALLOW: Inbound access request 
+Apr  9 14:08:14 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 5 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:03:38 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 183.60.194.22 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:03:38 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 46.232.206.68 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:03:39 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 61.158.240.142 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:03:39 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.209,53146 --> 8.35.177.11,80 ALLOW: Outbound access request 
+Apr  9 13:03:39 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.202,137 --> 192.168.1.255,137 ALLOW: Inbound access request 
+Apr  9 14:08:15 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:03:40 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 125.39.86.67 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:03:40 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.7,58738 --> 192.168.1.255,8612 ALLOW: Inbound access request 
+Apr  9 14:08:15 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:03:40 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.209,53147 --> 8.35.177.11,80 ALLOW: Outbound access request 
+Apr  9 13:03:40 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.202,137 --> 192.168.1.255,137 ALLOW: Inbound access request 
+Apr  9 14:08:18 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 11 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:03:42 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49493 --> 50.19.108.122,80 ALLOW: Outbound access request 
+Apr  9 13:03:42 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 183.60.194.22 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:03:42 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 192.168.1.218 --> 192.168.1.1 DENY: Firewall interface access request 
+Apr  9 13:03:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 61.158.240.142 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:03:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.202,137 --> 192.168.1.255,137 ALLOW: Inbound access request 
+Apr  9 14:08:19 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:03:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 220.194.195.24 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:03:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.209,53148 --> 192.168.1.1,80 DENY: Firewall interface access request 
+Apr  9 13:03:44 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.209,53149 --> 192.168.1.1,80 DENY: Firewall interface access request 
+Apr  9 13:03:44 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.209,53150 --> 192.168.1.1,80 DENY: Firewall interface access request 
+Apr  9 13:03:44 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 125.39.86.67 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:03:44 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.202,137 --> 192.168.1.255,137 ALLOW: Inbound access request 
+Apr  9 14:08:19 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:03:44 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.209,53151 --> 192.168.1.1,80 DENY: Firewall interface access request 
+Apr  9 13:03:44 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.202,137 --> 192.168.1.255,137 ALLOW: Inbound access request 
+Apr  9 14:08:22 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 5 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:03:46 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 183.60.194.22 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:03:47 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 61.158.240.142 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:03:47 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.7,63205 --> 192.168.1.255,8612 ALLOW: Inbound access request 
+Apr  9 14:08:23 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:03:47 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 192.168.1.218 --> 192.168.1.1 DENY: Firewall interface access request 
+Apr  9 13:03:48 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 125.39.86.67 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:03:48 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.209,53152 --> 8.35.177.11,80 ALLOW: Outbound access request 
+Apr  9 13:03:48 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.209,138 --> 192.168.1.255,138 ALLOW: Inbound access request 
+Apr  9 14:08:25 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:03:49 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 119.254.22.218 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:03:51 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 61.158.240.142 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:03:51 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,14352 --> 193.108.88.129,53 ALLOW: Outbound access request [DNS query for 1.courier-push-apple.com.akadns.net.]
+Apr  9 13:03:51 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,55632 --> 72.246.199.57,53 ALLOW: Outbound access request [DNS query for e3191.c.akamaiedge.net.]
+Apr  9 13:03:52 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 125.39.86.67 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:03:52 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 192.168.1.218 --> 192.168.1.1 DENY: Firewall interface access request 
+Apr  9 13:03:53 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 119.254.22.218 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:03:53 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 222.231.0.227 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:03:54 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.209,52991 --> 93.184.216.139,443 DENY: Inbound or outbound access request 
+Apr  9 13:03:54 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 93.184.216.139,443 --> 24.5.29.89,52991 DENY: Firewall interface access request 
+Apr  9 13:03:54 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.7,55679 --> 192.168.1.255,8612 ALLOW: Inbound access request 
+Apr  9 14:08:30 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:03:54 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,19228 --> 208.78.70.34,53 ALLOW: Outbound access request [DNS query for si0.twimg.com.]
+Apr  9 13:03:54 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.209,53153 --> 93.184.216.139,443 ALLOW: Outbound access request 
+Apr  9 13:03:54 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.218,47122 --> 23.62.228.34,80 DENY: Inbound or outbound access request 
+Apr  9 13:03:55 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 121.254.147.71 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:03:55 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,63010 --> 208.78.70.34,53 ALLOW: Outbound access request [DNS query for td.twitter.com.]
+Apr  9 13:03:55 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.209,53154 --> 199.59.150.40,443 ALLOW: Outbound access request 
+Apr  9 13:03:56 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 125.39.86.67 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:03:56 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,14872 --> 64.94.123.36,53 ALLOW: Outbound access request [DNS query for flightaware.com.]
+Apr  9 13:03:56 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,41218 --> 70.42.6.250,80 ALLOW: Outbound access request 
+Apr  9 13:03:56 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,41219 --> 70.42.6.250,80 ALLOW: Outbound access request 
+Apr  9 13:03:56 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.209,53155 --> 8.35.177.11,80 ALLOW: Outbound access request 
+Apr  9 13:03:57 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 119.254.22.218 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:03:57 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 192.168.1.218 --> 192.168.1.1 DENY: Firewall interface access request 
+Apr  9 13:03:58 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 111.177.111.131 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:03:58 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,45497 --> 72.21.91.19,80 ALLOW: Outbound access request 
+Apr  9 13:03:58 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,45498 --> 72.21.91.19,80 ALLOW: Outbound access request 
+Apr  9 13:03:58 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,45499 --> 72.21.91.19,80 ALLOW: Outbound access request 
+Apr  9 13:03:58 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,45500 --> 72.21.91.19,80 ALLOW: Outbound access request 
+Apr  9 13:03:58 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,45501 --> 72.21.91.19,80 ALLOW: Outbound access request 
+Apr  9 13:03:58 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.209,61352 --> 224.0.0.251,5353 ALLOW: Outbound access request 
+Apr  9 13:03:58 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,45502 --> 72.21.91.19,80 ALLOW: Outbound access request 
+Apr  9 13:03:58 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,45503 --> 72.21.91.19,80 ALLOW: Outbound access request 
+Apr  9 13:03:58 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.214,61369 --> 224.0.0.251,5353 ALLOW: Outbound access request 
+Apr  9 13:03:58 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.209,61352 --> 224.0.0.251,5353 ALLOW: Outbound access request 
+Apr  9 13:03:59 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,53195 --> 74.125.224.147,443 DENY: Inbound or outbound access request 
+Apr  9 13:03:59 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 121.254.147.71 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:03:59 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,58143 --> 72.21.91.121,80 ALLOW: Outbound access request 
+Apr  9 13:03:59 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,54267 --> 96.17.144.47,53 ALLOW: Outbound access request [DNS query for a749.dsw4.akamai.net.]
+Apr  9 13:03:59 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,12586 --> 69.171.255.11,53 ALLOW: Outbound access request [DNS query for star.c10r.facebook.com.]
+Apr  9 13:03:59 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,44456 --> 184.51.102.66,80 ALLOW: Outbound access request 
+Apr  9 13:03:59 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,44457 --> 184.51.102.66,80 ALLOW: Outbound access request 
+Apr  9 13:03:59 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,44135 --> 64.94.123.36,53 ALLOW: Outbound access request [DNS query for bb.flightaware.com.]
+Apr  9 13:03:59 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,45333 --> 173.252.101.26,80 ALLOW: Outbound access request 
+Apr  9 13:04:00 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,58147 --> 72.21.91.121,80 ALLOW: Outbound access request 
+Apr  9 13:04:00 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 220.194.195.24 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:04:01 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.206,59020 --> 74.125.129.193,443 DENY: Inbound or outbound access request 
+Apr  9 13:04:01 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,2662 --> 96.17.144.40,53 ALLOW: Outbound access request [DNS query for e3821.dspe1.akamaiedge.net.]
+Apr  9 13:04:01 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,52514 --> 184.85.111.139,80 ALLOW: Outbound access request 
+Apr  9 13:04:01 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 119.254.22.218 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:04:01 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.7,49720 --> 192.168.1.255,8612 ALLOW: Inbound access request 
+Apr  9 14:08:37 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:04:01 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,52515 --> 184.85.111.139,80 ALLOW: Outbound access request 
+Apr  9 13:04:02 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,45511 --> 72.21.91.19,80 ALLOW: Outbound access request 
+Apr  9 13:04:02 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,52580 --> 96.17.144.40,53 ALLOW: Outbound access request [DNS query for e566.dspe1.akamaiedge.net.]
+Apr  9 13:04:02 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,60663 --> 184.51.102.41,80 ALLOW: Outbound access request 
+Apr  9 13:04:02 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,60664 --> 184.51.102.41,80 ALLOW: Outbound access request 
+Apr  9 13:04:02 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,42149 --> 184.85.98.110,443 ALLOW: Outbound access request 
+Apr  9 13:04:02 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,42150 --> 184.85.98.110,443 ALLOW: Outbound access request 
+Apr  9 13:04:02 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,42151 --> 184.85.98.110,443 ALLOW: Outbound access request 
+Apr  9 13:04:02 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 192.168.1.218 --> 192.168.1.1 DENY: Firewall interface access request 
+Apr  9 13:04:03 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 46.232.206.68 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:04:03 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 124.95.158.18 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:04:03 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 121.254.147.71 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:04:04 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 220.194.195.24 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:04:04 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,54333 --> 216.239.34.10,53 ALLOW: Outbound access request [DNS query for www-google-analytics.l.google.com.]
+Apr  9 13:04:04 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,62163 --> 96.17.144.43,53 ALLOW: Outbound access request [DNS query for e2799.e7.akamaiedge.net.]
+Apr  9 13:04:04 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,36519 --> 64.94.107.17,80 ALLOW: Outbound access request 
+Apr  9 13:04:04 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,47457 --> 184.85.107.120,80 ALLOW: Outbound access request 
+Apr  9 13:04:04 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,34713 --> 173.194.33.35,80 ALLOW: Outbound access request 
+Apr  9 13:04:04 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,33081 --> 216.239.34.10,53 ALLOW: Outbound access request [DNS query for pagead.l.doubleclick.net.]
+Apr  9 13:04:04 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,3837 --> 96.17.144.40,53 ALLOW: Outbound access request [DNS query for e5569.g.akamaiedge.net.]
+Apr  9 13:04:04 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,37644 --> 96.17.144.42,53 ALLOW: Outbound access request [DNS query for a1294.w20.akamai.net.]
+Apr  9 13:04:04 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,54508 --> 63.151.118.47,53 ALLOW: Outbound access request [DNS query for a509.g.akamai.net.]
+Apr  9 13:04:04 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,27476 --> 95.100.168.131,53 ALLOW: Outbound access request [DNS query for optimized-by.rubiconproject.net.akadns.net.]
+Apr  9 13:04:04 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,29338 --> 216.239.34.10,53 ALLOW: Outbound access request [DNS query for pagead2.googlesyndication.com.]
+Apr  9 13:04:04 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,45273 --> 23.7.192.143,80 ALLOW: Outbound access request 
+Apr  9 13:04:04 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,45274 --> 23.7.192.143,80 ALLOW: Outbound access request 
+Apr  9 13:04:04 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,53628 --> 184.28.16.72,80 ALLOW: Outbound access request 
+Apr  9 13:04:04 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,61525 --> 205.252.255.11,53 ALLOW: Outbound access request [DNS query for puma.vizu.com.cdngc.net.]
+Apr  9 13:04:04 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,33052 --> 216.239.34.10,53 ALLOW: Outbound access request [DNS query for s0.2mdn.net.]
+Apr  9 13:04:04 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,64439 --> 204.13.250.14,53 ALLOW: Outbound access request [DNS query for tap2-cdn.rubiconproject.com.]
+Apr  9 13:04:04 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,34224 --> 74.125.224.153,80 ALLOW: Outbound access request 
+Apr  9 13:04:04 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,34225 --> 74.125.224.153,80 ALLOW: Outbound access request 
+Apr  9 13:04:04 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,47055 --> 95.100.168.131,53 ALLOW: Outbound access request [DNS query for ox30ssl-bid.d.xx.openx.com.akadns.net.]
+Apr  9 13:04:04 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,36439 --> 216.239.32.10,53 ALLOW: Outbound access request [DNS query for pagead46.l.doubleclick.net.]
+Apr  9 13:04:04 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,40107 --> 96.17.144.41,53 ALLOW: Outbound access request [DNS query for a978.g.akamai.net.]
+Apr  9 13:04:04 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,45487 --> 174.35.3.41,80 ALLOW: Outbound access request 
+Apr  9 13:04:04 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,45488 --> 174.35.3.41,80 ALLOW: Outbound access request 
+Apr  9 13:04:04 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,45489 --> 174.35.3.41,80 ALLOW: Outbound access request 
+Apr  9 13:04:04 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,17879 --> 216.239.32.10,53 ALLOW: Outbound access request [DNS query for dart.l.doubleclick.net.]
+Apr  9 13:04:04 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,1597 --> 23.61.199.129,53 ALLOW: Outbound access request [DNS query for perf-optimized-by.rubiconproject.net.akadns.net.]
+Apr  9 13:04:04 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,5989 --> 216.239.32.10,53 ALLOW: Outbound access request [DNS query for s0-2mdn-net.l.google.com.]
+Apr  9 13:04:04 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,43940 --> 184.51.102.80,80 ALLOW: Outbound access request 
+Apr  9 13:04:04 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,43941 --> 184.51.102.80,80 ALLOW: Outbound access request 
+Apr  9 13:04:04 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,47922 --> 64.94.107.54,80 ALLOW: Outbound access request 
+Apr  9 13:04:04 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,40350 --> 66.150.149.23,80 ALLOW: Outbound access request 
+Apr  9 13:04:04 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,40351 --> 66.150.149.23,80 ALLOW: Outbound access request 
+Apr  9 13:04:04 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,43676 --> 173.241.250.99,80 ALLOW: Outbound access request 
+Apr  9 13:04:04 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,43677 --> 173.241.250.99,80 ALLOW: Outbound access request 
+Apr  9 13:04:04 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,34236 --> 74.125.224.153,80 ALLOW: Outbound access request 
+Apr  9 13:04:04 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,34237 --> 74.125.224.153,80 ALLOW: Outbound access request 
+Apr  9 13:04:04 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,34238 --> 74.125.224.153,80 ALLOW: Outbound access request 
+Apr  9 13:04:04 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,52082 --> 74.125.224.155,80 ALLOW: Outbound access request 
+Apr  9 13:04:04 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,52083 --> 74.125.224.155,80 ALLOW: Outbound access request 
+Apr  9 13:04:04 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,45786 --> 173.194.33.41,80 ALLOW: Outbound access request 
+Apr  9 13:04:04 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,47480 --> 184.85.107.120,80 ALLOW: Outbound access request 
+Apr  9 13:04:04 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,52086 --> 74.125.224.155,80 ALLOW: Outbound access request 
+Apr  9 13:04:04 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,52087 --> 74.125.224.155,80 ALLOW: Outbound access request 
+Apr  9 13:04:04 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,52088 --> 74.125.224.155,80 ALLOW: Outbound access request 
+Apr  9 13:04:04 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,52089 --> 74.125.224.155,80 ALLOW: Outbound access request 
+Apr  9 13:04:05 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 119.254.22.218 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:04:06 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,50604 --> 96.17.144.195,53 ALLOW: Outbound access request [DNS query for dclk-match.dotomi.com.]
+Apr  9 13:04:06 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,46561 --> 74.125.224.141,80 ALLOW: Outbound access request 
+Apr  9 13:04:06 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,16316 --> 208.78.71.6,53 ALLOW: Outbound access request [DNS query for bidder.mathtag.com.]
+Apr  9 13:04:06 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,16243 --> 23.61.199.129,53 ALLOW: Outbound access request [DNS query for rtb-match.dotomi.weighted.com.akadns.net.]
+Apr  9 13:04:06 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,53990 --> 74.121.136.126,80 ALLOW: Outbound access request 
+Apr  9 13:04:06 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,33428 --> 96.17.144.195,53 ALLOW: Outbound access request [DNS query for sjc02-rtb.dotomi.com.]
+Apr  9 13:04:06 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,53991 --> 74.121.136.126,80 ALLOW: Outbound access request 
+Apr  9 13:04:06 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,46564 --> 74.125.224.141,80 ALLOW: Outbound access request 
+Apr  9 13:04:06 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,46565 --> 74.125.224.141,80 ALLOW: Outbound access request 
+Apr  9 13:04:06 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,53994 --> 74.121.136.126,80 ALLOW: Outbound access request 
+Apr  9 13:04:06 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 3) 74.121.136.126 --> 192.168.1.219 ALLOW: Inbound access request 
+Apr  9 13:04:07 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 46.232.206.68 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:04:07 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 121.254.147.71 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:04:08 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 192.168.1.218 --> 192.168.1.1 DENY: Firewall interface access request 
+Apr  9 13:04:08 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 220.194.195.24 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:04:08 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,49128 --> 205.251.192.27,53 ALLOW: Outbound access request [DNS query for ns-916.amazonaws.com.]
+Apr  9 13:04:08 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,58536 --> 205.251.228.6,53 ALLOW: Outbound access request [DNS query for adchoices-icon-cde-1968696106.us-east-1.elb.amazonaws.com.]
+Apr  9 13:04:08 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,20955 --> 205.251.192.27,53 ALLOW: Outbound access request [DNS query for ns-916.amazonaws.com.]
+Apr  9 13:04:08 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,23957 --> 205.251.192.27,53 ALLOW: Outbound access request [DNS query for ns-925.amazonaws.com.]
+Apr  9 13:04:08 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,33671 --> 205.251.192.27,53 ALLOW: Outbound access request [DNS query for ns-927.amazonaws.com.]
+Apr  9 13:04:08 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,57831 --> 205.251.192.27,53 ALLOW: Outbound access request [DNS query for ns-925.amazonaws.com.]
+Apr  9 13:04:08 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,22531 --> 205.251.192.27,53 ALLOW: Outbound access request [DNS query for ns-927.amazonaws.com.]
+Apr  9 13:04:08 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,16675 --> 205.251.192.27,53 ALLOW: Outbound access request [DNS query for ns-947.amazonaws.com.]
+Apr  9 13:04:08 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,63339 --> 205.251.192.27,53 ALLOW: Outbound access request [DNS query for ns-947.amazonaws.com.]
+Apr  9 13:04:08 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,58559 --> 205.251.192.27,53 ALLOW: Outbound access request [DNS query for ns-934.amazonaws.com.]
+Apr  9 13:04:08 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,11673 --> 205.251.192.27,53 ALLOW: Outbound access request [DNS query for ns-935.amazonaws.com.]
+Apr  9 13:04:08 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,35607 --> 205.251.192.27,53 ALLOW: Outbound access request [DNS query for ns-934.amazonaws.com.]
+Apr  9 13:04:08 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,56145 --> 205.251.192.27,53 ALLOW: Outbound access request [DNS query for ns-935.amazonaws.com.]
+Apr  9 13:04:08 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,34448 --> 208.78.70.28,53 ALLOW: Outbound access request [DNS query for d.agkn.com.]
+Apr  9 13:04:08 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,38102 --> 50.16.202.22,80 ALLOW: Outbound access request 
+Apr  9 13:04:08 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,28788 --> 204.13.250.28,53 ALLOW: Outbound access request [DNS query for sjcpool.data.agkn.com.]
+Apr  9 13:04:08 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,51111 --> 8.21.24.35,80 ALLOW: Outbound access request 
+Apr  9 13:04:08 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.7,56139 --> 192.168.1.255,8612 ALLOW: Inbound access request 
+Apr  9 14:08:44 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:04:08 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,38104 --> 50.16.202.22,80 ALLOW: Outbound access request 
+Apr  9 13:04:08 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,51113 --> 8.21.24.35,80 ALLOW: Outbound access request 
+Apr  9 13:04:09 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,38106 --> 50.16.202.22,80 ALLOW: Outbound access request 
+Apr  9 13:04:09 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,51115 --> 8.21.24.35,80 ALLOW: Outbound access request 
+Apr  9 13:04:09 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,51116 --> 8.21.24.35,80 ALLOW: Outbound access request 
+Apr  9 13:04:09 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,59886 --> 184.28.16.67,80 ALLOW: Outbound access request 
+Apr  9 13:04:09 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,59887 --> 184.28.16.67,80 ALLOW: Outbound access request 
+Apr  9 13:04:09 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,59888 --> 184.28.16.67,80 ALLOW: Outbound access request 
+Apr  9 13:04:09 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,33074 --> 184.26.161.64,53 ALLOW: Outbound access request [DNS query for a.scorecardresearch.com.]
+Apr  9 13:04:09 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,37091 --> 23.61.199.129,53 ALLOW: Outbound access request [DNS query for adxpose.tmrg.akadns.net.]
+Apr  9 13:04:09 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,57225 --> 205.217.176.16,80 ALLOW: Outbound access request 
+Apr  9 13:04:10 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,57226 --> 205.217.176.16,80 ALLOW: Outbound access request 
+Apr  9 13:04:10 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,26433 --> 207.200.73.80,53 ALLOW: Outbound access request [DNS query for jaws.oscar.aol.com.]
+Apr  9 13:04:10 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,57227 --> 205.217.176.16,80 ALLOW: Outbound access request 
+Apr  9 13:04:11 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 46.232.206.68 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:04:11 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 121.254.147.71 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:04:11 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 222.231.0.227 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:04:12 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 220.194.195.24 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:04:13 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 192.168.1.218 --> 192.168.1.1 DENY: Firewall interface access request 
+Apr  9 13:04:13 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 175.41.13.3 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:04:13 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,21170 --> 72.246.199.57,53 ALLOW: Outbound access request [DNS query for e3191.c.akamaiedge.net.]
+Apr  9 13:04:15 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 111.177.111.131 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:04:15 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 46.232.206.68 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:04:15 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.7,50944 --> 192.168.1.255,8612 ALLOW: Inbound access request 
+Apr  9 14:08:51 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:04:15 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 222.231.0.227 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:04:16 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 220.194.195.24 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:04:18 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 192.168.1.218 --> 192.168.1.1 DENY: Firewall interface access request 
+Apr  9 13:04:18 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 200.123.200.6 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:04:19 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 111.177.111.131 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:04:19 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 46.232.206.68 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:04:19 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 222.231.0.227 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:04:20 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 124.95.158.18 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:04:21 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,53196 --> 74.125.224.147,443 DENY: Inbound or outbound access request 
+Apr  9 13:04:22 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.7,51697 --> 192.168.1.255,8612 ALLOW: Inbound access request 
+Apr  9 14:08:58 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:04:23 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 192.168.1.218 --> 192.168.1.1 DENY: Firewall interface access request 
+Apr  9 13:04:23 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 111.177.111.131 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:04:23 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 124.164.239.16 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:04:23 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 222.231.0.227 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:04:24 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 124.95.158.18 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:04:27 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 111.177.111.131 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:04:27 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49494 --> 50.19.108.122,80 ALLOW: Outbound access request 
+Apr  9 13:04:27 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 222.231.0.227 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:04:28 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 124.95.158.18 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:04:28 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 192.168.1.218 --> 192.168.1.1 DENY: Firewall interface access request 
+Apr  9 13:04:29 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.7,58491 --> 192.168.1.255,8612 ALLOW: Inbound access request 
+Apr  9 14:09:06 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:04:31 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 111.177.111.131 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:04:31 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 175.41.13.3 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:04:32 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 124.95.158.18 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:04:33 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 192.168.1.218 --> 192.168.1.1 DENY: Firewall interface access request 
+Apr  9 13:04:33 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 14.0.63.3 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:04:34 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 200.123.200.6 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:04:35 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 175.41.13.3 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:04:36 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 124.95.158.18 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:04:36 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,45052 --> 96.17.144.47,53 ALLOW: Outbound access request [DNS query for e3191.c.akamaiedge.net.]
+Apr  9 13:04:36 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.7,62327 --> 192.168.1.255,8612 ALLOW: Inbound access request 
+Apr  9 14:09:12 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:04:37 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.202,137 --> 192.168.1.255,137 ALLOW: Inbound access request 
+Apr  9 14:09:13 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 5 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:04:38 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 192.168.1.218 --> 192.168.1.1 DENY: Firewall interface access request 
+Apr  9 13:04:38 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 200.123.200.6 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:04:38 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.202,137 --> 192.168.1.255,137 ALLOW: Inbound access request 
+Apr  9 14:09:15 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 5 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:04:39 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 124.164.239.16 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:04:39 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 175.41.13.3 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:04:40 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.202,137 --> 192.168.1.255,137 ALLOW: Inbound access request 
+Apr  9 14:09:18 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 11 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:04:42 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 200.123.200.6 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:04:42 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49316 --> 69.171.242.27,443 DENY: Inbound or outbound access request 
+Apr  9 14:09:18 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] T' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:04:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 192.168.1.218 --> 192.168.1.1 DENY: Firewall interface access request 
+Apr  9 13:04:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49316 --> 69.171.242.27,443 DENY: Inbound or outbound access request 
+Apr  9 13:04:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.202,137 --> 192.168.1.255,137 ALLOW: Inbound access request 
+Apr  9 14:09:19 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:04:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 175.41.8.4 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:04:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49316 --> 69.171.242.27,443 DENY: Inbound or outbound access request 
+Apr  9 13:04:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 124.164.239.16 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:04:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 175.41.13.3 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:04:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.7,63673 --> 192.168.1.255,8612 ALLOW: Inbound access request 
+Apr  9 14:09:19 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:04:44 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.202,137 --> 192.168.1.255,137 ALLOW: Inbound access request 
+Apr  9 14:09:20 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:04:44 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,20053 --> 208.109.255.50,53 ALLOW: Outbound access request [DNS query for www.skout.com.]
+Apr  9 13:04:44 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.209,53156 --> 8.35.177.11,80 ALLOW: Outbound access request 
+Apr  9 13:04:44 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.202,137 --> 192.168.1.255,137 ALLOW: Inbound access request 
+Apr  9 14:09:20 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:04:44 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49316 --> 69.171.242.27,443 DENY: Inbound or outbound access request 
+Apr  9 13:04:45 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.202,137 --> 192.168.1.255,137 ALLOW: Inbound access request 
+Apr  9 14:09:22 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:04:46 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 200.123.200.6 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:04:47 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49316 --> 69.171.242.27,443 DENY: Inbound or outbound access request 
+Apr  9 13:04:47 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 124.164.239.16 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:04:47 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 175.41.13.3 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:04:48 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 192.168.1.218 --> 192.168.1.1 DENY: Firewall interface access request 
+Apr  9 13:04:48 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 58.218.200.52 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:04:50 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 200.123.200.6 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:04:50 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 14.0.63.3 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:04:51 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.7,62330 --> 192.168.1.255,8612 ALLOW: Inbound access request 
+Apr  9 14:09:27 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:04:51 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 124.164.239.16 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:04:51 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49316 --> 69.171.242.27,443 DENY: Inbound or outbound access request 
+Apr  9 13:04:52 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.209,53157 --> 8.35.177.11,80 ALLOW: Outbound access request 
+Apr  9 13:04:52 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,34632 --> 74.125.224.135,443 ALLOW: Outbound access request 
+Apr  9 13:04:52 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,34633 --> 74.125.224.135,443 ALLOW: Outbound access request 
+Apr  9 13:04:53 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 192.168.1.218 --> 192.168.1.1 DENY: Firewall interface access request 
+Apr  9 13:04:53 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.219,34634 --> 74.125.224.135,443 ALLOW: Outbound access request 
+Apr  9 13:04:53 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 115.238.244.61 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:04:54 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 14.0.63.3 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:04:55 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,48849 --> 23.61.199.129,53 ALLOW: Outbound access request [DNS query for 1.courier-push-apple.com.akadns.net.]
+Apr  9 13:04:55 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 124.164.239.16 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:04:58 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.7,59846 --> 192.168.1.255,8612 ALLOW: Inbound access request 
+Apr  9 14:09:33 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:04:58 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 192.168.1.218 --> 192.168.1.1 DENY: Firewall interface access request 
+Apr  9 13:04:58 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 118.186.70.12 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:04:58 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 14.0.63.3 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:04:58 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,19194 --> 208.78.71.31,53 ALLOW: Outbound access request [DNS query for det-ta-g7g.amazon.com.]
+Apr  9 13:04:58 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,48567 --> 72.21.208.215,53 ALLOW: Outbound access request [DNS query for det-ta-g7g.amazon.com.]
+Apr  9 13:04:58 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.214,33002 --> 72.21.215.34,443 ALLOW: Outbound access request 
+Apr  9 13:04:59 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.7,137 --> 192.168.1.255,137 ALLOW: Inbound access request 
+Apr  9 14:09:35 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:04:59 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.7,138 --> 192.168.1.255,138 ALLOW: Inbound access request 
+Apr  9 14:09:36 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:05:01 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49316 --> 69.171.242.27,443 DENY: Inbound or outbound access request 
+Apr  9 13:05:01 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,48400 --> 72.246.199.57,53 ALLOW: Outbound access request [DNS query for e3191.c.akamaiedge.net.]
+Apr  9 13:05:01 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 175.41.8.4 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:05:02 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 14.0.63.3 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:05:03 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 192.168.1.218 --> 192.168.1.1 DENY: Firewall interface access request 
+Apr  9 13:05:03 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 221.139.107.158 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:05:04 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.206,59020 --> 74.125.129.193,443 DENY: Inbound or outbound access request 
+Apr  9 13:05:05 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.7,63941 --> 192.168.1.255,8612 ALLOW: Inbound access request 
+Apr  9 14:09:41 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:05:05 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 175.41.8.4 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:05:05 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 58.218.200.52 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:05:05 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 100.43.83.133,15926 --> 192.168.1.4,80 ALLOW: Inbound access request 
+Apr  9 13:05:06 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 14.0.63.3 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:05:06 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 100.43.83.133,16025 --> 192.168.1.4,80 ALLOW: Inbound access request 
+Apr  9 13:05:06 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 100.43.83.133,16025 --> 24.5.29.89,80 DENY: Firewall interface access request 
+Apr  9 13:05:07 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 100.43.83.133,16116 --> 192.168.1.4,80 ALLOW: Inbound access request 
+Apr  9 14:09:43 sf-fem02 sudo:   scoday : TTY=pts/0 ; PWD=/home/scoday/dev/tools ; USER=root ; COMMAND=/usr/bin/chown -R scoday:users bash/
+Apr  9 13:05:08 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 192.168.1.218 --> 192.168.1.1 DENY: Firewall interface access request 
+Apr  9 13:05:08 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49495 --> 74.125.129.91,443 ALLOW: Outbound access request 
+Apr  9 13:05:09 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,56397 --> 216.239.38.10,53 ALLOW: Outbound access request [DNS query for safebrowsing.cache.l.google.com.]
+Apr  9 13:05:09 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49496 --> 74.125.129.138,443 ALLOW: Outbound access request 
+Apr  9 13:05:09 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 175.41.8.4 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:05:09 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 58.218.200.52 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:05:10 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 115.238.244.61 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:05:11 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 101.226.167.199,20223 --> 192.168.1.4,80 ALLOW: Inbound access request 
+Apr  9 13:05:12 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.7,59065 --> 192.168.1.255,8612 ALLOW: Inbound access request 
+Apr  9 14:09:48 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:05:13 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 125.29.36.222 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:05:13 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 192.168.1.218 --> 192.168.1.1 DENY: Firewall interface access request 
+Apr  9 13:05:13 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 175.41.8.4 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:05:13 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 58.218.200.52 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:05:13 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,19092 --> 207.200.73.80,53 ALLOW: Outbound access request [DNS query for jaws.oscar.aol.com.]
+Apr  9 13:05:14 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 115.238.244.61 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:05:15 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 118.186.70.12 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:05:15 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,41075 --> 208.78.71.34,53 ALLOW: Outbound access request [DNS query for pbs.twimg.com.]
+Apr  9 13:05:15 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.209,53158 --> 93.184.216.139,443 ALLOW: Outbound access request 
+Apr  9 13:05:17 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 175.41.8.4 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:05:17 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 58.218.200.52 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:05:18 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 115.238.244.61 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:05:18 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 192.168.1.218 --> 192.168.1.1 DENY: Firewall interface access request 
+Apr  9 13:05:19 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 118.186.70.12 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:05:19 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.7,58158 --> 192.168.1.255,8612 ALLOW: Inbound access request 
+Apr  9 14:09:55 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:05:19 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 69.171.242.27,443 --> 24.5.29.89,49316 DENY: Firewall interface access request 
+Apr  9 13:05:21 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 221.139.107.158 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:05:21 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 58.218.200.52 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:05:22 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 115.238.244.61 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:05:22 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 220.181.89.168,63604 --> 192.168.1.4,80 ALLOW: Inbound access request 
+Apr  9 13:05:23 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 174.35.5.9 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:05:23 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 192.168.1.218 --> 192.168.1.1 DENY: Firewall interface access request 
+Apr  9 13:05:23 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 118.186.70.12 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 14:09:59 sf-fem02 named[7221]: error (network unreachable) resolving 'e3191.c.akamaiedge.net/A/IN': 2001:559:0:3f0:902f:5f53:4756:420a#53
+Apr  9 13:05:23 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,45722 --> 96.17.144.45,53 ALLOW: Outbound access request [DNS query for e3191.c.akamaiedge.net.]
+Apr  9 13:05:25 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 221.139.107.158 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:05:26 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 115.238.244.61 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 14:10:01 sf-fem02 /USR/SBIN/CRON[14025]: (root) CMD ([ -x /usr/lib64/sa/sa1 ] && exec /usr/lib64/sa/sa1 -S ALL 1 1)
+Apr  9 13:05:26 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.7,64658 --> 192.168.1.255,8612 ALLOW: Inbound access request 
+Apr  9 14:10:03 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:05:27 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 118.186.70.12 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:05:28 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 14.0.33.80 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:05:28 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 192.168.1.218 --> 192.168.1.1 DENY: Firewall interface access request 
+Apr  9 13:05:29 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 125.29.36.222 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:05:29 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 221.139.107.158 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:05:31 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 118.186.70.12 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:05:31 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,5468 --> 23.61.199.129,53 ALLOW: Outbound access request [DNS query for log.client.akadns.net.]
+Apr  9 13:05:31 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.202,53772 --> 209.170.97.239,80 ALLOW: Outbound access request 
+Apr  9 13:05:32 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.202,53773 --> 72.246.184.23,80 ALLOW: Outbound access request 
+Apr  9 13:05:33 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 125.29.36.222 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:05:33 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 221.139.107.158 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:05:33 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 192.168.1.218 --> 192.168.1.1 DENY: Firewall interface access request 
+Apr  9 13:05:33 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.7,59505 --> 192.168.1.255,8612 ALLOW: Inbound access request 
+Apr  9 14:10:12 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:05:37 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 125.29.36.222 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:05:37 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.202,137 --> 192.168.1.255,137 ALLOW: Inbound access request 
+Apr  9 14:10:12 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:05:37 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 221.139.107.158 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:05:37 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.209,61352 --> 224.0.0.251,5353 ALLOW: Outbound access request 
+Apr  9 13:05:37 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.214,61369 --> 224.0.0.251,5353 ALLOW: Outbound access request 
+Apr  9 13:05:37 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.209,61352 --> 224.0.0.251,5353 ALLOW: Outbound access request 
+Apr  9 13:05:37 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.202,137 --> 192.168.1.255,137 ALLOW: Inbound access request 
+Apr  9 14:10:14 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:05:38 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 174.35.64.59 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:05:38 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 192.168.1.218 --> 192.168.1.1 DENY: Firewall interface access request 
+Apr  9 13:05:38 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.202,137 --> 192.168.1.255,137 ALLOW: Inbound access request 
+Apr  9 14:10:14 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:05:39 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.209,53159 --> 8.35.177.11,80 ALLOW: Outbound access request 
+Apr  9 13:05:39 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.202,137 --> 192.168.1.255,137 ALLOW: Inbound access request 
+Apr  9 14:10:15 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:05:39 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.50,137 --> 192.168.1.255,137 ALLOW: Inbound access request 
+Apr  9 14:10:15 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:05:39 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 174.35.5.9 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:05:40 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.202,137 --> 192.168.1.255,137 ALLOW: Inbound access request 
+Apr  9 14:10:15 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:05:40 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.209,53160 --> 8.35.177.11,80 ALLOW: Outbound access request 
+Apr  9 13:05:40 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.7,55845 --> 192.168.1.255,8612 ALLOW: Inbound access request 
+Apr  9 14:10:16 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:05:41 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.202,137 --> 192.168.1.255,137 ALLOW: Inbound access request 
+Apr  9 14:10:16 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:05:41 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 125.29.36.222 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:05:41 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.202,137 --> 192.168.1.255,137 ALLOW: Inbound access request 
+Apr  9 14:10:18 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 5 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:05:42 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.7,49497 --> 54.225.239.142,80 ALLOW: Outbound access request 
+Apr  9 13:05:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.202,137 --> 192.168.1.255,137 ALLOW: Inbound access request 
+Apr  9 14:10:19 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:05:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 192.168.1.218 --> 192.168.1.1 DENY: Firewall interface access request 
+Apr  9 13:05:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 113.204.249.6 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:05:43 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 174.35.5.9 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:05:44 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.202,137 --> 192.168.1.255,137 ALLOW: Inbound access request 
+Apr  9 14:10:19 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:05:44 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 14.0.33.80 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:05:44 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.202,137 --> 192.168.1.255,137 ALLOW: Inbound access request 
+Apr  9 14:10:20 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:05:45 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 125.29.36.222 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:05:45 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.209,53161 --> 8.35.177.11,80 ALLOW: Outbound access request 
+Apr  9 13:05:45 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.202,137 --> 192.168.1.255,137 ALLOW: Inbound access request 
+Apr  9 14:10:21 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:05:46 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,53135 --> 96.17.144.45,53 ALLOW: Outbound access request [DNS query for e3191.c.akamaiedge.net.]
+Apr  9 13:05:46 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 66.249.74.26,37537 --> 192.168.1.4,80 ALLOW: Inbound access request 
+Apr  9 13:05:47 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 174.35.5.9 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:05:47 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.7,49872 --> 192.168.1.255,8612 ALLOW: Inbound access request 
+Apr  9 14:10:23 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:05:47 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.218,47122 --> 23.62.228.34,80 DENY: Inbound or outbound access request 
+Apr  9 13:05:48 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 14.0.33.80 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:05:48 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 192.168.1.218 --> 192.168.1.1 DENY: Firewall interface access request 
+Apr  9 13:05:48 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 14.0.67.184 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:05:51 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 174.35.5.9 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:05:52 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 14.0.33.80 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:05:53 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 95.128.60.141 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:05:53 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 192.168.1.218 --> 192.168.1.1 DENY: Firewall interface access request 
+Apr  9 13:05:53 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.209,53162 --> 8.35.177.11,80 ALLOW: Outbound access request 
+Apr  9 13:05:54 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 174.35.64.59 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:05:54 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.7,52162 --> 192.168.1.255,8612 ALLOW: Inbound access request 
+Apr  9 14:10:31 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:05:55 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 174.35.5.9 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:05:56 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 14.0.33.80 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:05:57 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 69.171.242.27,443 --> 24.5.29.89,49316 DENY: Firewall interface access request 
+Apr  9 13:05:58 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 174.35.64.59 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:05:58 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 192.168.1.218 --> 192.168.1.1 DENY: Firewall interface access request 
+Apr  9 13:05:58 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 174.35.82.7 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:05:58 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,45012 --> 23.61.199.129,53 ALLOW: Outbound access request [DNS query for 1.courier-push-apple.com.akadns.net.]
+Apr  9 13:05:59 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 113.204.249.6 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:06:00 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 14.0.33.80 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:06:01 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.7,61852 --> 192.168.1.255,8612 ALLOW: Inbound access request 
+Apr  9 14:10:38 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:06:02 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 174.35.64.59 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:06:03 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 14.0.67.184 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:06:03 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 192.168.1.218 --> 192.168.1.1 DENY: Firewall interface access request 
+Apr  9 13:06:03 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 46.232.206.182 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:06:03 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 113.204.249.6 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:06:06 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 174.35.64.59 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:06:07 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 14.0.67.184 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:06:07 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 180.76.5.89,19183 --> 192.168.1.4,80 ALLOW: Inbound access request 
+Apr  9 13:06:07 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 113.204.249.6 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:06:08 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] TCP 192.168.1.206,59020 --> 74.125.129.193,443 DENY: Inbound or outbound access request 
+Apr  9 13:06:08 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 37.29.0.206 --> 24.5.29.89 DENY: Firewall interface access request 
+Apr  9 13:06:08 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.3,40273 --> 96.17.144.47,53 ALLOW: Outbound access request [DNS query for e3191.c.akamaiedge.net.]
+Apr  9 13:06:08 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 192.168.1.218 --> 192.168.1.1 DENY: Firewall interface access request 
+Apr  9 13:06:08 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] UDP 192.168.1.7,55478 --> 192.168.1.255,8612 ALLOW: Inbound access request 
+Apr  9 14:10:46 192.168.1.1 SYSLOG: Last message '[Host 192.168.1.1] U' repeated 2 times, suppressed by syslog-ng on sf-fem02.fisheyemicro.com
+Apr  9 13:06:10 192.168.1.1 SYSLOG[0]: [Host 192.168.1.1] ICMP (type 8) 174.35.64.59 --> 24.5.29.89 DENY: Firewall interface access request 

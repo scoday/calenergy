@@ -1,0 +1,54 @@
+12/03/14			Hourly Breakdown of Renewable Resources (MW)														
+	Hour		GEOTHERMAL	BIOMASS		BIOGAS		SMALL HYDRO	WIND TOTAL	SOLAR PV	SOLAR THERMAL						
+	1		1036		269		180		83		184		0		0		
+	2		1039		278		178		52		210		0		0		
+	3		1046		279		178		52		425		0		0		
+	4		1051		277		177		52		381		0		0		
+	5		1051		278		180		53		317		0		0		
+	6		1053		280		174		106		185		0		0		
+	7		1053		289		175		125		349		0		0		
+	8		1053		280		175		125		573		216		0		
+	9		[-11059] No Good Data For Calculation		[-11059] No Good Data For Calculation		[-11059] No Good Data For Calculation		[-11059] No Good Data For Calculation		408		949		0		
+	10		[-11059] No Good Data For Calculation		[-11059] No Good Data For Calculation		[-11059] No Good Data For Calculation		[-11059] No Good Data For Calculation		575		1305		0		
+	11		[-11059] No Good Data For Calculation		[-11059] No Good Data For Calculation		[-11059] No Good Data For Calculation		[-11059] No Good Data For Calculation		772		1595		0		
+	12		[-11059] No Good Data For Calculation		[-11059] No Good Data For Calculation		[-11059] No Good Data For Calculation		[-11059] No Good Data For Calculation		930		1691		0		
+	13		1055		286		175		127		849		1573		0		
+	14		1052		288		175		117		631		1218		0		
+	15		[-11059] No Good Data For Calculation		[-11059] No Good Data For Calculation		[-11059] No Good Data For Calculation		[-11059] No Good Data For Calculation		376		798		0		
+	16		1053		294		174		115		217		415		0		
+	17		1054		303		174		140		118		0		1		
+	18		1053		295		177		146		79		0		0		
+	19		1054		293		177		154		114		0		0		
+	20		1055		295		178		162		150		0		0		
+	21		1057		302		181		223		170		0		0		
+	22		1058		302		181		213		169		0		0		
+	23		1058		309		180		183		162		0		0		
+	24		1059		296		181		153		172		0		0		
+																	
+																	
+			Hourly Breakdown of Total Production by Resource Type (MW)														
+	Hour		RENEWABLES	NUCLEAR		THERMAL		IMPORTS		HYDRO							
+	1		1753		2261		11598		4857		672						
+	2		1757		2261		11198		4526		588						
+	3		1979		2262		10376		4555		606						
+	4		1938		2261		10233		4561		606						
+	5		1878		2262		10529		4699		649						
+	6		1799		2263		11806		4915		662						
+	7		1991		2263		12698		5918		1066						
+	8		2423		2264		13541		6131		1123						
+	9		1356		2263		15446		6072		1050						
+	10		1880		2262		16260		5242		1035						
+	11		2367		2262		16225		5189		1041						
+	12		2621		2259		16608		4748		969						
+	13		4065		2255		15030		4878		989						
+	14		3481		2252		15377		5055		1156						
+	15		1174		2251		17078		5686		1073						
+	16		2268		2251		15715		6102		1069						
+	17		1790		2251		16396		6785		1229						
+	18		1752		2253		18170		6705		1459						
+	19		1792		2253		17859		6907		1314						
+	20		1841		2253		17616		6387		1306						
+	21		1934		2254		16028		7035		1195						
+	22		1922		2253		14336		7087		1242						
+	23		1893		2253		12508		6713		1184						
+	24		1861		2253		11686		5661		911						
