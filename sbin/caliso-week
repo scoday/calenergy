@@ -1,16 +1,16 @@
 #!/bin/bash
 #
 
-cd /usr/local/scoenergy/bin/postprocessing/shell
+cd /usr/local/calenergy/bin/postprocessing/shell
 mydir=$PWD
 
 
 edit_html() {
-    /usr/local/scoenergy/bin/postprocessing/shell/html_week.sh
+    /usr/local/calenergy/bin/postprocessing/shell/html_week.sh
 }
 
 edit_php() {
-    /usr/local/scoenergy/bin/postprocessing/shell/php_week.sh
+    /usr/local/calenergy/bin/postprocessing/shell/php_week.sh
 }
 
 edit_html

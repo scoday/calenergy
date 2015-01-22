@@ -1,22 +1,22 @@
 #!/bin/bash
 #
 
-cd /usr/local/scoenergy/
+cd /usr/local/calenergy/
 mydir=$PWD
 
 ##
 
 caliso() {
-    /usr/local/scoenergy/bin/caliso.sh
+    /usr/local/calenergy/bin/caliso.sh
     sleep 5
 }
 
 renewable() {
-    /usr/local/scoenergy/bin/renewable.sh
+    /usr/local/calenergy/bin/renewable.sh
     sleep 5
 }
 insert() {
-    /usr/local/scoenergy/bin/insert.sh
+    /usr/local/calenergy/bin/insert.sh
     sleep 5
 }
 
