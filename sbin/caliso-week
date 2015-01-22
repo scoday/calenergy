@@ -1,0 +1,19 @@
+#!/bin/bash
+#
+
+cd /usr/local/scoenergy/bin/postprocessing/shell
+mydir=$PWD
+
+
+edit_html() {
+    /usr/local/scoenergy/bin/postprocessing/shell/html_week.sh
+}
+
+edit_php() {
+    /usr/local/scoenergy/bin/postprocessing/shell/php_week.sh
+}
+
+edit_html
+edit_php
+
+# This is not actually working.
