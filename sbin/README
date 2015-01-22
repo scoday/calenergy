@@ -1,0 +1,6 @@
+#System wide /sbin/ scripts to be triggered from cron in the following order:
+#Timing is up to user.
+05 05 * * * caliso
+10 05 * * * caliso-charts
+15 05 * * * caliso-week
+30 05 * * * caliso-backs
