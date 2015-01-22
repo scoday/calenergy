@@ -5,7 +5,7 @@
 #NEW_DATE=24
 #OUTPUT_DATE=$(expr $OLD_DATE + $NEW_DATE)
 #echo $OUTPUT_DATE
-cd /usr/local/scoenergy/
+cd /usr/local/calenergy/
 mydir=$PWD
 
 URL=http://content.caiso.com/green/renewrpt/
@@ -17,6 +17,7 @@ NEW_DATE=$(expr 48 + 24)
 YESTERDAY=`date --date yesterday +%Y%m%d`
 #### Use the date string below to adjust download day. ######
 #YESTERDAY=`date --date "2 days ago" +%Y%m%d`
+YESTERDAY=`date --date last-tuesday +%Y%m%d`
 DG=`date +%Y%m%d`
 TG=`date +%H%M%S`
 MINIMUMSIZE=2160
@@ -91,9 +92,9 @@ isolate_hydro() {
 
 cleanup_tmp() {
     # Cleanup
-    rm -f ./data/tmp/*
-    echo "|| CALISO DATA SCRUB: $YESTERDAY || $DG || $TG || Processing Complete || Temp Files Purged ||" >> /var/log/scoenergy/caliso.log
-    echo "=============================================================================================" >> /var/log/scoenergy/caliso.log
+    #rm -f ./data/tmp/*
+    echo "|| CALISO DATA SCRUB: $YESTERDAY || $DG || $TG || Processing Complete || Temp Files Purged ||" >> /var/log/calenergy/caliso.log
+    echo "=============================================================================================" >> /var/log/calenergy/caliso.log
 }
 
 grab_file
