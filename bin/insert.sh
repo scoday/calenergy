@@ -1,14 +1,12 @@
-#!/bin/bash
+#!/usr/local/bin/bash
 # Renewableinator
 # Define working dir.
 cd /usr/local/calenergy/
 mydir=$PWD
-#YESTERDAY=`TZ=PST+24 date +%Y%m%d`
-YESTERDAY=`date --date yesterday +%Y%m%d`
-#YESTERDAY=`date --date "2 days ago" +%Y%m%d`
-DAY=`date --date yesterday +%Y%m%d`
-#DAY=`date --date "2 days ago" +%Y%m%d`
-#$DAY=`TZ=PST+24 date +%Y-%m-%d`
+# Update to the YESTERDAY variable to suit FreeBSD style date #
+# FORMAT: date -v -1d +%Y%m%d with -1d being number of days ahead or + for behind #
+YESTERDAY=`date -v -1d +%Y%m%d`
+DAY=`date -v -1d +%Y%m%d`
 DG=`date +%Y%m%d`
 TG=`date +%H%M%S`
 COUNT=`cat ./data/tmp/sql/count.txt`
