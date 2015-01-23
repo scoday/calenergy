@@ -1,23 +1,18 @@
-#!/bin/bash -x
+#!/usr/local/bin/bash -x
 # Download the ISO output and cut it up.
 #
-#OLD_DATE=1
-#NEW_DATE=24
-#OUTPUT_DATE=$(expr $OLD_DATE + $NEW_DATE)
-#echo $OUTPUT_DATE
 cd /usr/local/calenergy/
 mydir=$PWD
-
 URL=http://content.caiso.com/green/renewrpt/
 FILENAME=_DailyRenewablesWatch.txt
 FILEDATE=`date +%Y%m%d`
-NEW_DATE=$(expr 48 + 24)
+#NEW_DATE=$(expr 48 + 24)
 #YESTERDAY=`TZ=PST+24 date +%Y%m%d`
 #YESTERDAY=20140510 # Use this with below grab_file for specific requests #
-YESTERDAY=`date --date yesterday +%Y%m%d`
-#### Use the date string below to adjust download day. ######
-#YESTERDAY=`date --date "2 days ago" +%Y%m%d`
-YESTERDAY=`date --date last-tuesday +%Y%m%d`
+#YESTERDAY=`date --date yesterday +%Y%m%d`
+# Update to the YESTERDAY variable to suit FreeBSD style date #
+# FORMAT: date -v -1d +%Y%m%d with -1d being number of days ahead or + for behind #
+YESTERDAY=`date -v -1d +%Y%m%d`
 DG=`date +%Y%m%d`
 TG=`date +%H%M%S`
 MINIMUMSIZE=2160
